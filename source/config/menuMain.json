@@ -21,37 +21,19 @@
         "icon": "fa fa-file-text-o",
         "slug": "generalidades-suelo",
         "title": "2.1 Definición",
-        "anchor": "tema-2"
+        "anchor": "definicion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "generalidades-suelo",
         "title": "2.2 Componentes del Suelo",
-        "anchor": "tema-2"
+        "anchor": "componentes"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "generalidades-suelo",
         "title": "2.3 Propiedades del Suelo",
-        "anchor": "tema-2"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "generalidades-suelo",
-        "title": "2.3.1 Propiedades Físicas",
-        "anchor": "tema-2"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "generalidades-suelo",
-        "title": "2.3.2 Propiedades Químicas",
-        "anchor": "tema-2"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "generalidades-suelo",
-        "title": "2.3.3 Propiedades Biológicas",
-        "anchor": "tema-2"
+        "anchor": "propiedades"
       }
     ]    
   },
@@ -65,19 +47,19 @@
         "icon": "fa fa-file-text-o",
         "slug": "analisis-suelo",
         "title": "3.1 Definición",
-        "anchor": "tema-3"
+        "anchor": "definicion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis-suelo",
         "title": "3.2 Cómo Tomar una Muestra",
-        "anchor": "tema-3"
+        "anchor": "como"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis-suelo",
-        "title": "3.2 Importancia",
-        "anchor": "tema-3"
+        "title": "3.3 Importancia",
+        "anchor": "importancia"
       }
     ]  
   },  
@@ -91,7 +73,7 @@
         "icon": "fa fa-file-text-o",
         "slug": "manejo-conservacion-suelo",
         "title": "4.1 Prácticas de Conservación del Suelo",
-        "anchor": "tema-4"
+        "anchor": "practicas"
       }
     ]
   },
@@ -111,19 +93,19 @@
         "icon": "fa fa-file-text-o",
         "slug": "abonos-organicos",
         "title": "6.1 Definición",
-        "anchor": "tema-6"
+        "anchor": "definicion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "abonos-organicos",
         "title": "6.2 Tipos",
-        "anchor": "tema-6"
+        "anchor": "tipos"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "abonos-organicos",
         "title": "6.2 Beneficios",
-        "anchor": "tema-6"
+        "anchor": "beneficios"
       }
     ]  
   },
@@ -137,19 +119,19 @@
         "icon": "fa fa-file-text-o",
         "slug": "bocashi",
         "title": "7.1 Definición",
-        "anchor": "tema-7"
+        "anchor": "definicion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "bocashi",
         "title": "7.2 Materiales para la Preparación",
-        "anchor": "tema-7"
+        "anchor": "materiales"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "bocashi",
-        "title": "7.2 Dosis de Aplicación",
-        "anchor": "tema-7"
+        "title": "7.3 Dosis de Aplicación",
+        "anchor": "dosis"
       }
     ]  
   },
@@ -163,30 +145,30 @@
         "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
         "title": "8.1 Definición",
-        "anchor": "tema-8"
+        "anchor": "definicion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "lombricultura",
         "title": "8.2 Ventajas",
-        "anchor": "tema-8"
+        "anchor": "ventajas"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "lombricultura",
         "title": "8.3 Características de la Lombriz",
-        "anchor": "tema-8"
+        "anchor": "caracteristicasLombriz"
       },   {
         "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
         "title": "8.4 Características del Humus",
-        "anchor": "tema-8"
+        "anchor": "caracteristicasHumus"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "lombricultura",
         "title": "8.5 Instalación de la Lombricultura ",
-        "anchor": "tema-8"
+        "anchor": "instalacion"
       }
     ]  
   },

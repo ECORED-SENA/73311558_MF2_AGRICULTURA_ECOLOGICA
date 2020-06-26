@@ -26,13 +26,13 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "generalidades-suelo",
-        "title": "2.2 Componentes del Suelo",
+        "title": "2.2 Componentes del suelo",
         "anchor": "componentes"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "generalidades-suelo",
-        "title": "2.3 Propiedades del Suelo",
+        "title": "2.3 Propiedades del suelo",
         "anchor": "propiedades"
       }
     ]    
@@ -52,7 +52,7 @@
       {
         "icon": "fa fa-play-circle",
         "slug": "analisis-suelo",
-        "title": "3.2 Cómo Tomar una Muestra",
+        "title": "3.2 Cómo tomar una muestra",
         "anchor": "como"
       },
       {
@@ -72,7 +72,7 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "manejo-conservacion-suelo",
-        "title": "4.1 Prácticas de Conservación del Suelo",
+        "title": "4.1 Prácticas de conservación del suelo",
         "anchor": "practicas"
       }
     ]
@@ -86,7 +86,7 @@
       {
         "icon": "fa fa-play-circle",
         "slug": "deficiencias-nutricionales",
-        "title": "5.4 Tipos de Síntomas",
+        "title": "5.4 Tipos de síntomas",
         "anchor": "tipos"
       }
     ]
@@ -132,13 +132,13 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "bocashi",
-        "title": "7.2 Materiales para la Preparación",
+        "title": "7.2 Materiales para la preparación",
         "anchor": "materiales"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "bocashi",
-        "title": "7.3 Dosis de Aplicación",
+        "title": "7.3 Dosis de aplicación",
         "anchor": "dosis"
       }
     ]  
@@ -164,18 +164,18 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
-        "title": "8.3 Características de la Lombriz",
+        "title": "8.3 Características de la lombriz",
         "anchor": "caracteristicasLombriz"
       },   {
         "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
-        "title": "8.4 Características del Humus",
+        "title": "8.4 Características del humus",
         "anchor": "caracteristicasHumus"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
-        "title": "8.5 Instalación de la Lombricultura ",
+        "title": "8.5 Instalación de la lombricultura ",
         "anchor": "instalacion"
       }
     ]  

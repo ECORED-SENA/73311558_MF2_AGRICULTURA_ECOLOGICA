@@ -24,13 +24,13 @@
         "anchor": "definicion"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "generalidades-suelo",
         "title": "2.2 Componentes del Suelo",
         "anchor": "componentes"
       },
       {
-        "icon": "fa fa-file-text-o",
+        "icon": "fa fa-play-circle",
         "slug": "generalidades-suelo",
         "title": "2.3 Propiedades del Suelo",
         "anchor": "propiedades"
@@ -56,7 +56,7 @@
         "anchor": "como"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "analisis-suelo",
         "title": "3.3 Importancia",
         "anchor": "importancia"
@@ -81,7 +81,15 @@
     "icon": "fa fa-file-text-o",
     "slug": "deficiencias-nutricionales",
     "title": "5. Deficiencias nutricionales",
-    "path": "pages/5-tema.html"
+    "path": "pages/5-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "deficiencias-nutricionales",
+        "title": "5.4 Tipos de Síntomas",
+        "anchor": "tipos"
+      }
+    ]
   },
   {
     "icon": "fa fa-file-text-o",
@@ -96,13 +104,13 @@
         "anchor": "definicion"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "abonos-organicos",
         "title": "6.2 Tipos",
         "anchor": "tipos"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "abonos-organicos",
         "title": "6.2 Beneficios",
         "anchor": "beneficios"
@@ -122,13 +130,13 @@
         "anchor": "definicion"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "bocashi",
         "title": "7.2 Materiales para la Preparación",
         "anchor": "materiales"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "bocashi",
         "title": "7.3 Dosis de Aplicación",
         "anchor": "dosis"
@@ -148,13 +156,13 @@
         "anchor": "definicion"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
         "title": "8.2 Ventajas",
         "anchor": "ventajas"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
         "title": "8.3 Características de la Lombriz",
         "anchor": "caracteristicasLombriz"
@@ -165,7 +173,7 @@
         "anchor": "caracteristicasHumus"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text-o",
         "slug": "lombricultura",
         "title": "8.5 Instalación de la Lombricultura ",
         "anchor": "instalacion"

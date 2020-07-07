@@ -1,11 +1,52 @@
 .bg-color-naranja {
     background-color: orange;
 }
+.text-white{
+    color: white;
+}
+.text-black{
+    color:black;
+}
+.text-orange{
+    color: #FF7F00;
+}
 
+.border{
+    border-radius: 10px;
+}
 
-// Estilos tema 2
 
 .img-a {
     display:block;
     margin:auto;    
+}
+// Estilos tema 3
+
+.color-t3{
+    background-color: #EFFFCB;
+}
+
+// Estilos tema 4
+
+.card-color-t4{
+    background-color:#00223D;
+    border-radius:6px 0px 0px 6px;
+}
+.bg-color-t4{
+    background-color: #422A2F;
+}
+.row-practicas{
+    display: flex; 
+    flex-direction: row;
+}
+.col-practicas{
+    border-right-style: solid;
+    border-right-color: white;
+    border-right-width: 1px;
+}
+
+// Estilos tema 6
+
+.card-color-t6{
+    background-color: #6E4431;
 }

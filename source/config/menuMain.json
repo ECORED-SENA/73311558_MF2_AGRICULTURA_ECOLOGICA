@@ -16,7 +16,15 @@
     "icon": "fa fa-file-text-o",
     "slug": "acondicionadores-suelo",
     "title": "1. Los acondicionadores del suelo",
-    "path": "pages/1-tema.html"    
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "acondicionadores-suelo",
+        "title": "1.1 Definición",
+        "anchor": "defi"
+      }
+    ]
   },
   {
     "icon": "fa fa-file-text-o",
@@ -91,10 +99,28 @@
     "path": "pages/5-tema.html",
     "submenu": [
       {
+        "icon": "fa fa-file-text-o",
+        "slug": "deficiencias-nutricionales",
+        "title": "5.1 Tipos",
+        "anchor": "tipos"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "deficiencias-nutricionales",
+        "title": "5.2 Signos",
+        "anchor": "signos"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "deficiencias-nutricionales",
+        "title": "5.3 Síntomas",
+        "anchor": "sintomas"
+      },
+      {
         "icon": "fa fa-play-circle",
         "slug": "deficiencias-nutricionales",
         "title": "5.4 Tipos de síntomas",
-        "anchor": "tipos"
+        "anchor": "tiposS"
       }
     ]
   },

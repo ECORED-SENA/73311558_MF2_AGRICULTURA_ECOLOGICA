@@ -4,7 +4,7 @@
     "terms": [
       {
         "title": "Abono",
-        "desciption": "Sustancia utilizada para mejorar las condiciones del suelo e incrementar la producción de los un cultivos que este sustenta."
+        "desciption": "Sustancia utilizada para mejorar las condiciones del suelo e incrementar la producción de los cultivos que este sustenta."
       }
     ]
   },
@@ -13,8 +13,10 @@
     "terms": [
       {
         "title": "Capacidad de Intercambio Catiónico",
-        "desciption": "Son las cargas negativas presentes en las superficies de los minerales y componentes orgánicos y representa la cantidad de cationes que las superficies pueden retener."        
-      },{
+        "desciption": "Son las cargas negativas presentes en las superficies de los minerales y componentes orgánicos y representa la cantidad de cationes que las superficies pueden retener."
+                
+      }
+      ,{
         "title": "Clorosis",
         "desciption": "Coloración anormal del follaje de las plantas debido a la falta de clorofila como consecuencia de la deficiencia de algún nutriente."        
       },{
